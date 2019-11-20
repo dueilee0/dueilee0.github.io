@@ -7,3 +7,5 @@ categories: HARDLIFE
 ---
 서버 버젼: 1.14.4  
 서버 주소: (미정)
+
+(서버 접속하는 GIF)
