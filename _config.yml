@@ -25,7 +25,7 @@ plugins:
   - jekyll-seo-tag
 
 # Permalinks
-permalink:      /posts/:title
+permalink:      :title
 paginate:       5
 
 texture:
