@@ -1,6 +1,9 @@
-
 ---
 layout: post
 title:  "리소스팩 가이드"
+description: 하드라이프 서버 리소스팩 가이드 게시글 입니다.
 date:   2019-11-20 21:03:36
+categories: HARDLIFE
 ---
+
+TEST
