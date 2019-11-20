@@ -1,7 +1,7 @@
 
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
+title:          dueilee0
+description:    ""
 baseurl:        ""
 url:            "https://dueilee0.github.io"
 
@@ -29,14 +29,14 @@ permalink:      /posts/:title
 paginate:       5
 
 social_links:
-  twitter: thelehhman
-  github:  thelehhman
-  linkedIn: in/thelehhman
+  twitter: 
+  github:  dueilee0
+  linkedIn: 
   rss: rss
 
 texture:
-  title: Adam Denisov
-  tagline: Developer. Designer
+  title: dueilee0
+  tagline: 
   date_format: "%b %-d, %Y"
   style: black
   showNav: false
