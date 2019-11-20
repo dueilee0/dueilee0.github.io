@@ -13,4 +13,5 @@ categories: HARDLIFE
 
 ### 서버 리소스팩 수동 다운로드
 
-[다음 링크] (https://drive.google.com/uc?id=1D0Ym8_KZL4mqzg_AgY64RxbN_XAVzrAP&export=download "링크 설명 테스트")를 이용 해주시면 됩니다.
+[다음 링크](https://drive.google.com/uc?id=1D0Ym8_KZL4mqzg_AgY64RxbN_XAVzrAP&export=download "링크 설명 테스트")
+를 이용 해주시면 됩니다.
