@@ -21,7 +21,7 @@ categories: HARDLIFE
 
 ### 서버 리소스팩 자동 다운로드 권한 허용 방법
 
-![guide1](https://dueilee0.github.io/assets/images/server-resourcepack-guide-1.PNG
+![guide1](https://dueilee0.github.io/assets/images/server-resourcepack-guide-1.PNG)
 
 서버 편집을 들어 갑니다.
 
