@@ -9,4 +9,4 @@ categories: HARDLIFE
 1. 닉네임에 성적인 묘사나 비속어, 정치와 관련된 단어가 들어가서는 안됩니다.
 2. 운영진을 사칭해서는 안됩니다.
 3. 특정 인물을 비하하기 위한 목적의 닉네임은 사용해선 안됩니다.  
-<span style="color:red">Red Text</span>
+<span style="color:red">- 1회 경고 후 닉네임 변경권 지급</span>
