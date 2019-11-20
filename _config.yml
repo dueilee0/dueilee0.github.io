@@ -28,10 +28,6 @@ plugins:
 permalink:      /posts/:title
 paginate:       5
 
-social_links:
-  github: dueilee0
-  rss: rss
-
 texture:
   title: dueilee0
   tagline: 
@@ -39,3 +35,6 @@ texture:
   style: black
   showNav: false
   showPicker: false
+  social_links:
+    github: dueilee0
+    rss: rss
