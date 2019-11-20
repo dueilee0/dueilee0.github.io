@@ -12,9 +12,16 @@ categories: HARDLIFE
 %appdata%\ .minecraft\server-resource-packs 경로의 파일을 모두 지워주시면 해결 됩니다.
 
 
-![TEST](https://dueilee0.github.io/assets/images/server-resourcepack-delete.PNG)
+![delete](https://dueilee0.github.io/assets/images/server-resourcepack-delete.PNG)
 
 ### 서버 리소스팩 수동 다운로드
 
 [다음 링크](https://drive.google.com/uc?id=1D0Ym8_KZL4mqzg_AgY64RxbN_XAVzrAP&export=download "서버 리소스팩 다운로드 하러 가기")
 를 이용 해주시면 됩니다.
+
+### 서버 리소스팩 자동 다운로드 권한 허용 방법
+
+![guide1](https://dueilee0.github.io/assets/images/server-resourcepack-guide-1.PNG
+
+서버 편집을 들어 갑니다.
+
