@@ -30,7 +30,7 @@ paginate:       5
 
 texture:
   title: dueilee0
-  tagline: MethodScript, C++, Python
+  tagline: MethodScript C++ Python
   date_format: "%b %-d, %Y"
   style: black
   showNav: false
