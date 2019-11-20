@@ -15,3 +15,5 @@ categories: HARDLIFE
 
 [다음 링크](https://drive.google.com/uc?id=1D0Ym8_KZL4mqzg_AgY64RxbN_XAVzrAP&export=download "서버 리소스팩 다운로드 하러 가기")
 를 이용 해주시면 됩니다.
+
+![TEST](dueilee0.github.io/assets/images/test.PNG)
