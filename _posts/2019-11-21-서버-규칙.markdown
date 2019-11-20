@@ -2,7 +2,7 @@
 layout: post
 title:  "서버 규칙"
 description: 하드라이프 서버 규칙 입니다.
-date:   2019-11-19 21:03:36
+date:   2019-11-21 21:03:36
 categories: HARDLIFE
 ---
 
