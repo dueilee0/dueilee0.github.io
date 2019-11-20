@@ -25,3 +25,6 @@ categories: HARDLIFE
 
 서버 편집을 들어 갑니다.
 
+![guide2](https://dueilee0.github.io/assets/images/server-resourcepack-guide-2.PNG)
+
+서버 리소스 팩을 허용이나 물어보기로 설정 합니다.
