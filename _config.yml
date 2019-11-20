@@ -29,9 +29,7 @@ permalink:      /posts/:title
 paginate:       5
 
 social_links:
-  twitter: 
   github: dueilee0
-  linkedIn: 
   rss: rss
 
 texture:
