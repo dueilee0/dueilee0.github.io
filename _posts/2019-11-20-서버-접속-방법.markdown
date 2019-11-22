@@ -6,6 +6,6 @@ date:   2019-11-20 21:03:36
 categories: HARDLIFE
 ---
 서버 버젼: 1.14.4  
-서버 주소: (미정)
+서버 주소: hardlife.kr
 
-(서버 접속하는 GIF)
+![join](https://dueilee0.github.io/assets/images/server-join.gif)
