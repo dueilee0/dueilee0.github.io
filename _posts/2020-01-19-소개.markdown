@@ -16,3 +16,8 @@ categories: TALK
 - 마인크래프트 하드라이프 서버 개발진 2017~2019
 - 마인크래프트 에바튜나 서버 개발진 2019~
 - 러스트 사설 서버 WildCompany 스텝 2019~
+### 연락처 및 계정
+`TELEGRAM`: @MethodScript \
+`DISCORD`: dueilee0#8941 \
+`BATTLETAG`: 듀이#31506 \
+`EMAIL`: dueilee0@naver.com
