@@ -19,7 +19,7 @@ categories: TALK
 - 러스트 사설 서버 WildCompany 스텝 2019~
 
 ### 연락처 및 계정
-`TELEGRAM`: @MethodScript  
+`TELEGRAM`: [@MethodScript](http://telegram.me/MethodScript)  
 `DISCORD`: dueilee0#8941  
 `BATTLETAG`: 듀이#31506  
 `EMAIL`: dueilee0@naver.com
