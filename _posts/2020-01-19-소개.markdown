@@ -7,8 +7,8 @@ categories: TALK
 ---
 
 ### 안녕하세요!
-저는 마인크래프트와 오버워치를 굉장히 좋아하는 게이머 입니다. \
-유사 프로그래밍 언어를 다뤄 게임의 컨텐츠를 만드는것을 취미로 하고 있고 커맨드헬퍼라고 불리는 메소드 스크립트를 잘 다루는 편입니다. \
+저는 마인크래프트와 오버워치를 굉장히 좋아하는 게이머 입니다.  
+유사 프로그래밍 언어를 다뤄 게임의 컨텐츠를 만드는것을 취미로 하고 있고 커맨드헬퍼라고 불리는 메소드 스크립트를 잘 다루는 편입니다.  
 그 외에도 C++, Python과 같은 언어를 가볍게 배워본 적이 있습니다.
 ### 이력
 - 마인크래프트 개발자 커뮤니티 카페 [김태룡](https://cafe.naver.com/goldbigdragon) 9대, 10대, 16대 관리 스텝
@@ -17,7 +17,7 @@ categories: TALK
 - 마인크래프트 에바튜나 서버 개발진 2019~
 - 러스트 사설 서버 WildCompany 스텝 2019~
 ### 연락처 및 계정
-`TELEGRAM`: @MethodScript \
-`DISCORD`: dueilee0#8941 \
-`BATTLETAG`: 듀이#31506 \
+`TELEGRAM`: @MethodScript  
+`DISCORD`: dueilee0#8941  
+`BATTLETAG`: 듀이#31506  
 `EMAIL`: dueilee0@naver.com
