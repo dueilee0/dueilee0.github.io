@@ -10,5 +10,18 @@ categories: MINECRAFT
 서버 마다 이에 대한 제재 사항이 있을 수 있으며 규칙을 확인 후 사용 바랍니다.  
 ( 러스트 서버 같은 경우 제재 X)  
 ### 설정 방법
-![runUI](https://dueilee0.github.io/assets/images/runUi.PNG)
-1. 윈도우 키 + R 을 눌러 실행 창을 띄웁니다.
+![runUI](https://dueilee0.github.io/assets/images/runUi.PNG)  
+윈도우 키 + R 을 눌러 실행 창을 띄우고 사진과 같이 %appdata%를 입력 합니다.
+
+![.minecraftUI](https://dueilee0.github.io/assets/images/run.minecraft.PNG)  
+.minecraft 폴더를 찾아 들어 갑니다.
+
+![.minecraftUI](https://dueilee0.github.io/assets/images/option.PNG)  
+options.txt 파일을 찾은 후 사용중인 에디터를 사용 해 엽니다.
+따로 에디터가 없으신 분들은 그냥 실행 하시면 노트패드로 열립니다.
+
+![.minecraftUI](https://dueilee0.github.io/assets/images/editor.PNG)  
+gamma 부분의 값을 1000.0으로 수정 하고, 저장 후 닫습니다.  
+  
+이제 마인크래프트를 실행 하시면 매우 밝은걸 확인 할 수 있을 겁니다.
+마인크래프트 설정에서 밝기를 조정하면 감마가 다시 내려가니 주의 해 주세요.
