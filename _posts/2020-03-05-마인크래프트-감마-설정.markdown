@@ -17,11 +17,11 @@ categories: MINECRAFT
 .minecraft 폴더를 찾아 들어 갑니다.
 
 ![.minecraftUI](https://dueilee0.github.io/assets/images/option.PNG)  
-options.txt 파일을 찾은 후 사용중인 에디터를 사용 해 엽니다.
+options.txt 파일을 찾은 후 사용중인 에디터를 사용 해 엽니다.  
 따로 에디터가 없으신 분들은 그냥 실행 하시면 노트패드로 열립니다.
 
 ![.minecraftUI](https://dueilee0.github.io/assets/images/editor.PNG)  
 gamma 부분의 값을 1000.0으로 수정 하고, 저장 후 닫습니다.  
   
-이제 마인크래프트를 실행 하시면 매우 밝은걸 확인 할 수 있을 겁니다.
+이제 마인크래프트를 실행 하시면 매우 밝은걸 확인 할 수 있을 겁니다.  
 마인크래프트 설정에서 밝기를 조정하면 감마가 다시 내려가니 주의 해 주세요.
