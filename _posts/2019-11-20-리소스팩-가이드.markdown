@@ -14,11 +14,6 @@ categories: RESOURCEPACK
 
 ![delete](https://dueilee0.github.io/assets/images/server-resourcepack-delete.PNG)
 
-### 서버 리소스팩 수동 다운로드
-
-[다음 링크](https://dueilee0.github.io/assets/HardLife_v1.0.0.zip "서버 리소스팩 다운로드 하러 가기")
-를 이용 해주시면 됩니다.
-
 ### 서버 리소스팩 자동 다운로드 권한 허용 방법
 
 ![guide1](https://dueilee0.github.io/assets/images/server-resourcepack-guide-1.PNG)
